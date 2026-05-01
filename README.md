@@ -35,6 +35,7 @@ intervention from students or faculty.
 ---
 
 ## Project Structure
+```
 smart-attendance-system/
 ├── data/
 │   └── registered/
@@ -51,6 +52,7 @@ smart-attendance-system/
 ├── test_recognition.py      ← Standalone recognition testing script
 ├── requirements.txt         ← Python dependencies
 └── readme.md                ← This file
+```
 
 ---
 
